@@ -1,0 +1,78 @@
+C:\Users\DInuka\Desktop\Student Database\Project\Project\bin\Debug\Project.exe.config
+C:\Users\DInuka\Desktop\Student Database\Project\Project\bin\Debug\Project.exe
+C:\Users\DInuka\Desktop\Student Database\Project\Project\bin\Debug\Project.pdb
+C:\Users\DInuka\Desktop\Student Database\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\DInuka\Desktop\Student Database\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\DInuka\Desktop\Student Database\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\DInuka\Desktop\Student Database\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\DInuka\Desktop\Student Database\Project\Project\obj\Debug\Project.exe
+C:\Users\DInuka\Desktop\Student Database\Project\Project\obj\Debug\Project.pdb
+C:\Users\DInuka\Desktop\Student Database\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\DInuka\Desktop\Student Database\Project\Project\obj\Debug\Project.Welcome.resources
+C:\Users\DInuka\Desktop\Student Database\Project\Project\bin\Debug\MySql.Data.dll
+C:\Users\DInuka\Desktop\Student Database\Project\Project\bin\Debug\Google.Protobuf.dll
+C:\Users\DInuka\Desktop\Student Database\Project\Project\bin\Debug\MySql.Data.xml
+C:\Users\DInuka\Desktop\Student Database\Project\Project\obj\Debug\Project.StuDetails.resources
+C:\Users\DInuka\Desktop\Student Database\Project\Project\obj\Debug\Project.StuMain.resources
+C:\Users\DInuka\Desktop\Student Database\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\DInuka\Desktop\Student Database\Project\Project\obj\Debug\Project.LecDetails.resources
+C:\Users\DInuka\Desktop\Student Database\Project\Project\obj\Debug\Project.LecMain.resources
+C:\Users\DInuka\Desktop\Student Database\Project\Project\obj\Debug\Project.LecStudView.resources
+C:\Users\DInuka\Desktop\Student Database\Project\Project\obj\Debug\Project.LecStudEdit.resources
+C:\Users\DInuka\Desktop\Student Database\Project\Project\obj\Debug\Project.AdMain.resources
+C:\Users\DInuka\Desktop\Student Database\Project\Project\obj\Debug\Project.CorDetails.resources
+C:\Users\DInuka\Desktop\Student Database\Project\Project\obj\Debug\Project.CorEdit.resources
+C:\Users\DInuka\Desktop\Student Database\Project\Project\obj\Debug\Project.LecEdit.resources
+C:\Users\DInuka\Desktop\Student Database\Project\Project\obj\Debug\Project.StuEdit.resources
+F:\Project\Project\bin\Debug\Project.exe.config
+F:\Project\Project\bin\Debug\Project.exe
+F:\Project\Project\bin\Debug\Project.pdb
+F:\Project\Project\bin\Debug\Google.Protobuf.dll
+F:\Project\Project\bin\Debug\MySql.Data.xml
+F:\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+F:\Project\Project\obj\Debug\Project.AdMain.resources
+F:\Project\Project\obj\Debug\Project.CorDetails.resources
+F:\Project\Project\obj\Debug\Project.CorEdit.resources
+F:\Project\Project\obj\Debug\Project.LecDetails.resources
+F:\Project\Project\obj\Debug\Project.LecEdit.resources
+F:\Project\Project\obj\Debug\Project.LecMain.resources
+F:\Project\Project\obj\Debug\Project.LecStudEdit.resources
+F:\Project\Project\obj\Debug\Project.LecStudView.resources
+F:\Project\Project\obj\Debug\Project.Login.resources
+F:\Project\Project\obj\Debug\Project.Properties.Resources.resources
+F:\Project\Project\obj\Debug\Project.StuDetails.resources
+F:\Project\Project\obj\Debug\Project.StuEdit.resources
+F:\Project\Project\obj\Debug\Project.StuMain.resources
+F:\Project\Project\obj\Debug\Project.Welcome.resources
+F:\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+F:\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+F:\Project\Project\obj\Debug\Project.csproj.CopyComplete
+F:\Project\Project\obj\Debug\Project.exe
+F:\Project\Project\obj\Debug\Project.pdb
+F:\Project\Project\bin\Debug\MySql.Data.dll
+F:\Kithara\Project\Project\bin\Debug\Project.exe.config
+F:\Kithara\Project\Project\bin\Debug\Project.exe
+F:\Kithara\Project\Project\bin\Debug\Project.pdb
+F:\Kithara\Project\Project\bin\Debug\MySql.Data.dll
+F:\Kithara\Project\Project\bin\Debug\Google.Protobuf.dll
+F:\Kithara\Project\Project\bin\Debug\MySql.Data.xml
+F:\Kithara\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+F:\Kithara\Project\Project\obj\Debug\Project.AdMain.resources
+F:\Kithara\Project\Project\obj\Debug\Project.CorDetails.resources
+F:\Kithara\Project\Project\obj\Debug\Project.CorEdit.resources
+F:\Kithara\Project\Project\obj\Debug\Project.LecDetails.resources
+F:\Kithara\Project\Project\obj\Debug\Project.LecEdit.resources
+F:\Kithara\Project\Project\obj\Debug\Project.LecMain.resources
+F:\Kithara\Project\Project\obj\Debug\Project.LecStudEdit.resources
+F:\Kithara\Project\Project\obj\Debug\Project.LecStudView.resources
+F:\Kithara\Project\Project\obj\Debug\Project.Login.resources
+F:\Kithara\Project\Project\obj\Debug\Project.Properties.Resources.resources
+F:\Kithara\Project\Project\obj\Debug\Project.StuDetails.resources
+F:\Kithara\Project\Project\obj\Debug\Project.StuEdit.resources
+F:\Kithara\Project\Project\obj\Debug\Project.StuMain.resources
+F:\Kithara\Project\Project\obj\Debug\Project.Welcome.resources
+F:\Kithara\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+F:\Kithara\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+F:\Kithara\Project\Project\obj\Debug\Project.csproj.CopyComplete
+F:\Kithara\Project\Project\obj\Debug\Project.exe
+F:\Kithara\Project\Project\obj\Debug\Project.pdb
